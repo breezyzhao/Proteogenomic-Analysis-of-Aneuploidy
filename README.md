@@ -1,6 +1,6 @@
 # Proteogenomic-Analysis-of-Aneuploidy
 
-**The realted work has been published in eLife:** <br><br>
+**The work has been published in eLife:** <br><br>
 **Proteogenomic analysis of cancer aneuploidy and normal tissues reveals divergent modes of gene regulation across cellular pathways**
 
 <img width="867" alt="image" src="https://user-images.githubusercontent.com/50238955/186252339-2c755b00-7ce0-4db0-a386-6599bd36edfb.png">
